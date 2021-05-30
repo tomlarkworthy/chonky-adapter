@@ -1,0 +1,20 @@
+{
+  "name": "chonky-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_",
+  "dependencies": {},
+  "devDependencies": {
+    "chonky": "^2.1.0",
+    "chonky-icon-fontawesome": "^2.1.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
